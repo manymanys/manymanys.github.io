@@ -23,6 +23,7 @@ navbar-links:
   Projects:
     - MM1: "MM1"
   Events: "events"
+  Calendar: "calendar"
   Resources:
     - Code of Conduct: "COC"
     - Collab. Agreement: "https://docs.google.com/document/d/1TS_va-GiUmDONuHZe5gghPNX5gdSMayrCR1TV2OZntg/edit?usp=sharing"

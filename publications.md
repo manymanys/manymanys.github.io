@@ -2,4 +2,4 @@
 layout: page
 title: ManyManys' Publications
 ---
-Comparative Cognition Needs Big Team Science: How Large-Scale Collaborations Will Unlock the Future of the Field (preprint): https://osf.io/preprints/psyarxiv/rynvu
+Comparative Cognition Needs Big Team Science: How Large-Scale Collaborations Will Unlock the Future of the Field (<a href="https://osf.io/preprints/psyarxiv/rynvu">preprint</a>)

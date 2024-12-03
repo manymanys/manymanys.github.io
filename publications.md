@@ -2,4 +2,19 @@
 layout: page
 title: ManyManys' Publications
 ---
-Alessandroni, N., Altschul, D., Bazhydai, M., Byers-Heinlein, K., Elsherif, M., Gjoneska, B., Huber, L., Mazza, V., Miller, R., Nawroth, C., Pronizius, E., Qadri, M. A. J., Šlipogor, V., Soderstrom, M., Stevens, J. R., Visser, I., Williams, M., Zettersten, M., & Prétôt, L. (2024). [Comparative cognition needs big team science: How large-scale collaborations will unlock the future of the field](https://comparative-cognition-and-behavior-reviews.org/wp/wp-content/uploads/2024/04/CCBR-vol19-pp067-072-Alessandroni.pdf). <i>Comparative Cognition & Behavior Reviews, 19<i>, 67–72.
+
+<style>
+  .hanging-indent {
+    text-indent: -2em; /* Pull the first line back */
+    padding-left: 2em; /* Push the rest of the text forward */
+  }
+</style>
+
+<p class="hanging-indent">
+  Alessandroni, N., Altschul, D., Bazhydai, M., Byers-Heinlein, K., Elsherif, M., Gjoneska, B., Huber, L., Mazza, V., Miller, R., Nawroth, C., Pronizius, E., Qadri, M. A. J., Šlipogor, V., Soderstrom, M., Stevens, J. R., Visser, I., Williams, M., Zettersten, M., & Prétôt, L. (2024). 
+  <a href="https://comparative-cognition-and-behavior-reviews.org/wp/wp-content/uploads/2024/04/CCBR-vol19-pp067-072-Alessandroni.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    Comparative cognition needs big team science: How large-scale collaborations will unlock the future of the field.
+  </a>
+</p>
+
+

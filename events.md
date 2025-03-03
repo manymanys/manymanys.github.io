@@ -20,7 +20,9 @@ Our initial survey showed that many potential contributors are unfamiliar with t
 〰️ Reversal Learning with Birds, Reptiles, and Amphibians – March 25, 10:00 a.m. – 11:30 a.m. (ET)
 
 🔗 Register here: [https://forms.gle/9VMgoXP4XmqUbvWg9](https://forms.gle/9VMgoXP4XmqUbvWg9) (Zoom details will be sent upon registration.)
-We would greatly appreciate it if you could share this invitation with colleagues who might be interested. For any questions, please reach out to themanymanys1@gmail.com 
+We would greatly appreciate it if you could share this invitation with colleagues who might be interested. 
+
+For any questions, please reach out to themanymanys1@gmail.com 
 We look forward to seeing many of you there!
 
 

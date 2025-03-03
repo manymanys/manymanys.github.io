@@ -14,7 +14,9 @@ Our initial survey showed that many potential contributors are unfamiliar with t
 📅 Webinar schedule:
 
 〰️ Reversal Learning with Humans and Non-Human Primates – March 13, 11:00 a.m. – 12:30 p.m. (ET)
+
 〰️ Reversal Learning with Ungulates, Rodents, Fishes, and Marine Invertebrates – March 14, 10:00 a.m. – 11:30 a.m. (ET)
+
 〰️ Reversal Learning with Birds, Reptiles, and Amphibians – March 25, 10:00 a.m. – 11:30 a.m. (ET)
 
 🔗 Register here: https://forms.gle/9VMgoXP4XmqUbvWg9 (Zoom details will be sent upon registration.)

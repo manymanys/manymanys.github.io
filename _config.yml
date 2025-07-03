@@ -129,17 +129,17 @@ keywords: "manymanys, big team science, comparative cognition, BTS"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#e07a5f"
-navbar-text-col: "#404040"
+navbar-col: "#81b29a"
+navbar-text-col: "#000000"
 navbar-border-col: "#ffffff"
 page-col: "#ffffff"
-text-col: "#404040"
-link-col: "#81b29a"
-hover-col: "#81b29a"
-footer-col: "#e07a5f"
-footer-text-col: "#777777"
-footer-link-col: "#81b29a"
-footer-hover-col: "#81b29a"
+text-col: "#000000"
+link-col: "#e07a5f"
+hover-col: "#e07a5f"
+footer-col: "#81b29a"
+footer-text-col: "#000000"
+footer-link-col: "#e07a5f"
+footer-hover-col: "#e07a5f"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

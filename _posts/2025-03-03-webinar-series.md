@@ -1,11 +1,9 @@
 ---
-title: "Latest News"
+title: "Open Webinar Series on Implementing Reversal Learning Across Species"
 date: 2025-03-03
 categories: [news]
 layout: post
 ---
-
-# Open Webinar Series on Implementing Reversal Learning Across Species
 
 ![Webinar flyer](/assets/img/rl_webinar_1.png)
 ![Webinar flyer](/assets/img/rl_webinar_2.png)

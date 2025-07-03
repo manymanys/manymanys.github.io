@@ -1,11 +1,9 @@
 ---
-title: "Latest News"
+title: "Open Webinar: Reversal Learning Across Taxa: Exploring Applications and Standardizing Procedures for Comparative Cognition Research"
 date: 2025-03-03
 categories: [news]
 layout: post
 ---
-
-# Open Webinar: "Reversal Learning Across Taxa: Exploring Applications and Standardizing Procedures for Comparative Cognition Research"
 
 ![Webinar flyer](/assets/img/jul2023_webinar_rl.png)
 

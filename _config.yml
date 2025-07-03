@@ -13,7 +13,7 @@
 title: The ManyManys
 
 # Your name to show in the footer
-author: Nicolás Alessandroni, Laurent Prétôt, and Julia Espinosa
+author: Nicolás Alessandroni & Laurent Prétôt
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -57,7 +57,7 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: 
   github: manymanys
-#  twitter: TheManyManys
+  twitter: TheManyManys
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -129,17 +129,17 @@ keywords: "manymanys, big team science, comparative cognition, BTS"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#e07a5f"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+navbar-border-col: "#ffffff"
+page-col: "#ffffff"
 text-col: "#404040"
-link-col: "#6c48a1"
-hover-col: "#60428a"
-footer-col: "#EAEAEA"
+link-col: "#81b29a"
+hover-col: "#81b29a"
+footer-col: "#e07a5f"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#60428a"
+footer-link-col: "#81b29a"
+footer-hover-col: "#81b29a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

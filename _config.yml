@@ -26,7 +26,7 @@ navbar-links:
   Calendar: "calendar"
   Resources:
     - Code of Conduct: "COC"
-    - Collab. Agreement: "https://docs.google.com/document/d/1TS_va-GiUmDONuHZe5gghPNX5gdSMayrCR1TV2OZntg/edit?usp=sharing"
+    - Collab. Agreement: "https://drive.google.com/file/d/1USNNKrLwFyL_r_Z1HMCga4A4NGMuttdO/view?usp=sharing"
     - Publications: "publications"
   Get Involved: "mailto:themanymanys1@gmail.com"
 
@@ -135,7 +135,7 @@ navbar-border-col: "#ffffff"
 page-col: "#ffffff"
 text-col: "#000000"
 link-col: "#e07a5f"
-hover-col: "#000000"
+hover-col: "#e07a5f"
 footer-col: "#81b29a"
 footer-text-col: "#000000"
 footer-link-col: "#000000"

@@ -5,7 +5,7 @@ categories: [news]
 layout: post
 ---
 
-![ORCA logo]([/assets/img/orca_logo.png](https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/orca_logo.PNG?raw=true))
+![ORCA logo](https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/orca_logo.PNG?raw=true)
 
 We are excited to share that ManyManys has been selected as part of the inaugural cohort of the Open Scholarship Catalytic Awards Program by the [Open Research Community Accelerator (ORCA)](https://www.orcaopen.org/)! This award will directly support ManyManys 1 (MM1)—our first cross-species study on reversal learning—and help expand the network’s training and capacity-building efforts.
 

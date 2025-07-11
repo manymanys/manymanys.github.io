@@ -3,6 +3,8 @@ title: "Open Webinar: Reversal Learning Across Taxa: Exploring Applications and 
 date: 2023-07-18
 categories: [news]
 layout: post
+thumbnail-img: /assets/img/jul2023_webinar_rl.png
+tags: [ManyManys 1, webinar, reversal learning, task design, comparative cognition]
 ---
 
 ![Webinar flyer](/assets/img/jul2023_webinar_rl.png)

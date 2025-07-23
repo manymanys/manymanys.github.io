@@ -3,9 +3,13 @@ title: "ManyManys wins ORCA Catalytic Award to advance open science training"
 date: 2025-07-10
 categories: [news]
 layout: post
+thumbnail-img: /assets/img/orca_logo.PNG
+tags: [award, ManyManys 1, open science, open scholarship, training]
 ---
 
-![ORCA logo](/assets/img/orca_logo.png)
+<div style="text-align: center;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/orca_logo.PNG?raw=true" alt="ORCA logo" style="max-width: 300px; height: auto;">
+</div>
 
 We are excited to share that ManyManys has been selected as part of the inaugural cohort of the Open Scholarship Catalytic Awards Program by the [Open Research Community Accelerator (ORCA)](https://www.orcaopen.org/)! This award will directly support ManyManys 1 (MM1)—our first cross-species study on reversal learning—and help expand the network’s training and capacity-building efforts.
 

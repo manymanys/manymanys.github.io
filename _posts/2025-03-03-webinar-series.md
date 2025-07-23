@@ -3,6 +3,8 @@ title: "Open Webinar Series on Implementing Reversal Learning Across Species"
 date: 2025-03-03
 categories: [news]
 layout: post
+thumbnail-img: /assets/img/rl_webinar_1.png
+tags: [ManyManys 1, webinar, reversal learning, task design, comparative cognition]
 ---
 
 ![Webinar flyer](/assets/img/rl_webinar_1.png)

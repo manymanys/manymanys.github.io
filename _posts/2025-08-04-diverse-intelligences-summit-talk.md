@@ -1,6 +1,6 @@
 ---
 title: "Nicolás Alessandroni’s invited talk at Diverse Intelligences Summit 2025"
-date: 2025-07-31
+date: 2025-08-04
 categories: [news]
 layout: post
 tags: [invited talk, ManyManys 1, comparative cognition, big team science]

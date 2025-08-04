@@ -3,7 +3,6 @@ title: "Nicolás Alessandroni’s invited talk at Diverse Intelligences Summit 2
 date: 2025-07-31
 categories: [news]
 layout: post
-# thumbnail-img: /assets/img/orca_logo.PNG
 tags: [invited talk, ManyManys 1, comparative cognition, big team science]
 ---
 

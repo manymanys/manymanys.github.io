@@ -25,10 +25,10 @@ navbar-links:
   Governance: "AB"
   News & Events: "news"
   Calendar: "calendar"
+  Publications: "publications"
   Resources:
     - Code of Conduct: "COC"
     - Collab. Agreement: "https://drive.google.com/file/d/1USNNKrLwFyL_r_Z1HMCga4A4NGMuttdO/view?usp=sharing"
-    - Publications: "publications"
   Get Involved: "mailto:themanymanys1@gmail.com"
 
 ################

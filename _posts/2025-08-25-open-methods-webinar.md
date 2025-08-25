@@ -8,7 +8,7 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, open methods]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/open_methods_webinar_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/open_methods_webinar_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are excited to launch registration for our first open webinar exploring the connection between open science and comparative cognition: Open Methods in Comparative Cognition Research.

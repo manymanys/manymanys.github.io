@@ -23,6 +23,6 @@ The webinar will feature presentations by Dr. Emma Tecwyn and Dr. Ben Farrar, fo
 
 🔗Register here: [https://airtable.com/app0bcw8jYPvKXD0H/pagH2WslnaSWTt7GL/form](https://airtable.com/app0bcw8jYPvKXD0H/pagH2WslnaSWTt7GL/form) (Zoom details will be sent upon registration). 
 
-For any questions, please contact us at themanymanys1@gmail.com. We look forward to the conversation and seeing you there!
+For any questions, please contact us at [themanymanys1@gmail.com](mailto:themanymanys1@gmail.com). We look forward to the conversation and seeing you there!
 
 *This open webinar series is made possible thanks to the generous support of the Open Research Community Accelerator (ORCA).*

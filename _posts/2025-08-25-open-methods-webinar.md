@@ -23,6 +23,12 @@ The webinar will feature presentations by Dr. Emma Tecwyn and Dr. Ben Farrar, fo
 
 🔗Register here: [https://airtable.com/app0bcw8jYPvKXD0H/pagH2WslnaSWTt7GL/form](https://airtable.com/app0bcw8jYPvKXD0H/pagH2WslnaSWTt7GL/form) (Zoom details will be sent upon registration). 
 
+**Emma** has a background spanning biological sciences, animal behaviour and psychology and is interested in the evolutionary and developmental origins of cognitive abilities—particularly those implicated in problem-solving and decision-making. She uses behavioural experiments to investigate a range of cognitive abilities in diverse groups, with past projects having examined planning in great apes, intuitive statistics in capuchin monkeys, understanding of gravity and solidity in dogs, causal reasoning in toddlers and experience of time in children. Emma strives for open, transparent, and reproducible research practices in her work, but knows there is always more to learn!
+
+**Ben** is a senior consultant at Lumanity, where he specialises in providing evidence on the comparative effectiveness of medicines to health care services. Ben has a PhD in comparative cognition which focused on replication and research methods in the study of animal cognition.
+
 For any questions, please contact us at [themanymanys1@gmail.com](mailto:themanymanys1@gmail.com). We look forward to the conversation and seeing you there!
 
 *This open webinar series is made possible thanks to the generous support of the Open Research Community Accelerator (ORCA).*
+
+*Updated September 10, 2025*

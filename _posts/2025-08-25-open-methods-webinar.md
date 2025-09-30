@@ -7,6 +7,16 @@ thumbnail-img: /assets/img/open_methods_webinar_flyer.png
 tags: [ManyManys 1, webinar, open science, comparative cognition, open methods]
 ---
 
+<br>
+
+<center>
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://youtu.be/lMdDIld81_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</center>
+
+<br>
+
 <div style="text-align: center;">
 <img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/open_methods_webinar_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 700px; height: auto;">
 </div>
@@ -31,4 +41,4 @@ For any questions, please contact us at [themanymanys1@gmail.com](mailto:themany
 
 *This open webinar series is made possible thanks to the generous support of the Open Research Community Accelerator (ORCA).*
 
-*Updated September 10, 2025*
+*Updated September 30, 2025*

@@ -11,7 +11,7 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, open methods]
 
 <center>
   <div class="video-container">
-    <iframe width="560" height="315" src="https://youtu.be/lMdDIld81_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lMdDIld81_I?si=EzKVpJ6E9RpvxJD1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </center>
 

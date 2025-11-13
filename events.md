@@ -11,9 +11,13 @@ We are happy to announce our upcoming panel discussion:
 **Navigating Career Development in Open and Big Team Science: Challenges and Opportunities**
 
 **Date & time:** November 24, 10–11 a.m. (ET)
+
 **Speakers:** Krista Byers-Heinlein, Erin Buchanan, Nicholas Coles, & Kyndal Irwin
+
 **Register here:** [https://airtable.com/applafE4pI8WBkV3s/pag8NHzDA7xnP3v3e/form](https://airtable.com/applafE4pI8WBkV3s/pag8NHzDA7xnP3v3e/form)
+
 **Calendar invite:** [https://calendar.app.google/eph4Fqp7ucieokUr9](https://calendar.app.google/eph4Fqp7ucieokUr9) 
+
 **Zoom link:** [https://concordia-ca.zoom.us/j/82439539431?pwd=Dx9oUS6T3rQ7Fij2rvSH4CX14mv7I4.1](https://concordia-ca.zoom.us/j/82439539431?pwd=Dx9oUS6T3rQ7Fij2rvSH4CX14mv7I4.1)
 
 Big Team Science (BTS) promises collaborative innovation and robust, transparent research—but how does it affect individual career trajectories? This panel explores the complex relationship between contributing to large-scale collaborative projects and advancing through academic contexts that vary in their commitment to open science values and their reliance on conventional performance metrics.

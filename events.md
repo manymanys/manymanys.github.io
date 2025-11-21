@@ -4,7 +4,7 @@ title: Events
 ---
 
 # Panel Discussion: Navigating Career Development in Open and Big Team Science: Challenges and Opportunities
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel_discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel%20discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
 
 We are happy to announce our upcoming panel discussion:
 
@@ -12,7 +12,7 @@ We are happy to announce our upcoming panel discussion:
 
 **Date & time:** November 24, 10–11 a.m. (ET)
 
-**Speakers:** Krista Byers-Heinlein, Erin Buchanan, Nicholas Coles, & Kyndal Irwin
+**Speakers:** Melanie Soderstrom, Erin Buchanan, Nicholas Coles, & Kyndal Irwin
 
 **Register here:** [https://airtable.com/applafE4pI8WBkV3s/pag8NHzDA7xnP3v3e/form](https://airtable.com/applafE4pI8WBkV3s/pag8NHzDA7xnP3v3e/form)
 

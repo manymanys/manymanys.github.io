@@ -8,7 +8,7 @@ tags: [ManyManys 1, panel discussion, open science, Big Team Science, career dev
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel%20discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 700px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel_discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are happy to announce our upcoming panel discussion:

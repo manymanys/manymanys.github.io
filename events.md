@@ -4,7 +4,7 @@ title: Events
 ---
 
 # Panel Discussion: Navigating Career Development in Open and Big Team Science: Challenges and Opportunities
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel%20discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel_discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
 
 We are happy to announce our upcoming panel discussion:
 

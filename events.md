@@ -4,7 +4,6 @@ title: Events
 ---
 # Open Webinar: What's the use of preregistration for Big Team Science?
 <img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/preregistration_webinar_flyer.png?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
-</div>
 
 As part of our open science event series, we are excited to launch registration for our upcoming webinar: 
 

@@ -16,8 +16,11 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, preregistratio
 As part of our open science event series, we are excited to launch registration for our upcoming webinar: 
 
 **What's the use of preregistration for Big Team Science?**
+
 📅 Date & time: January 27, 11:00 a.m. – 12:30 p.m. (ET) on Zoom [view in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?p1=165&iso=20260127T11&msg=What’s%20the%20use%20of%20pre-registration%20for%20Big%20Team%20Science%3f%20%5bw/%20Dr.%20Daniël%20Lakens%5d%20%28ManyManys%20webinar%29&ah=1&am=30)
+
 🎤 Speaker: Daniël Lakens 
+
 🔗 Register here: [https://airtable.com/appdpnSYMtFsTWFzU/pag8NHzDA7xnP3v3e/form](https://airtable.com/appdpnSYMtFsTWFzU/pag8NHzDA7xnP3v3e/form)
 
 **Abstract:** Preregistration and Registered Reports are recent developments that aim to counteract systematic bias. The goal of preregistration is to allow others to transparently evaluate how severely a claim has been tested. In this talk I will reflect on whether preregistration achieves this goal. I will also reflect on criticisms of preregistration, points of improvement, and challenges for future metascientific research, such as how to deal with deviations from preregistrations. 

@@ -27,6 +27,7 @@ As part of our open science event series, we are excited to launch registration 
 
 The presentation will be followed by an interactive discussion with participants. The webinar is free and open to all, regardless of ManyManys membership or career stage. We encourage you to join and share this invitation widely with colleagues and students who might be interested. For any questions, please contact us at [themanymanys1@gmail.com](mailto:themanymanys1@gmail.com).
 
+<i><small>Our open webinar series is supported by the Open Research Community Accelerator (ORCA). This project has been made possible, in part, by grant 2024-349547 from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation.</small></i>
 
 
 

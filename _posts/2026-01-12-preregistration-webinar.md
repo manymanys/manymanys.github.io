@@ -23,6 +23,8 @@ As part of our open science event series, we are excited to launch registration 
 
 🔗 Register here: [https://airtable.com/appdpnSYMtFsTWFzU/pag8NHzDA7xnP3v3e/form](https://airtable.com/appdpnSYMtFsTWFzU/pag8NHzDA7xnP3v3e/form)
 
+📅 [Calendar invite](https://calendar.app.google/VxLvNSi2KD5Q9A6S9) (with Zoom link)
+
 **Abstract:** Preregistration and Registered Reports are recent developments that aim to counteract systematic bias. The goal of preregistration is to allow others to transparently evaluate how severely a claim has been tested. In this talk I will reflect on whether preregistration achieves this goal. I will also reflect on criticisms of preregistration, points of improvement, and challenges for future metascientific research, such as how to deal with deviations from preregistrations. 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: none; margin: 20px 0;">

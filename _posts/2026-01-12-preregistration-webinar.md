@@ -47,3 +47,5 @@ The presentation will be followed by an interactive discussion with participants
 
 
 <i><small>Our open webinar series is supported by the Open Research Community Accelerator (ORCA). This project has been made possible, in part, by grant 2024-349547 from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation.</small></i>
+
+*Updated March 9, 2026*

@@ -28,9 +28,8 @@ WHY PARTICIPATE?
 HOW TO PARTICIPATE?
 
 1.  Join us at the online public study kickoff  on  June 23, 2026, at 10--11 a.m. (ET) / 2--3 p.m. UTC ([time zone converter](https://www.worldtimebuddy.com/event?lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&sts=29702880&sln=14-15&a=preview&c=1771)), where project leads and members involved in the research design will walk through everything you need to know to participate. This is the best opportunity to ask questions, meet the team, and get set up as a contributing site. Add the event to your calendar through [this calendar invite](https://calendar.app.google/6C5EREKimtaUMLSM9) (Zoom link is within).\
-[FLYER HERE]
 
-1.  Fill out the site registration form. Once you are ready to sign up as a contributing lab/team, please complete the [MM1 site registration form](https://forms.fillout.com/t/n4fxVFpHQWus).
+2.  Fill out the site registration form. Once you are ready to sign up as a contributing lab/team, please complete the [MM1 site registration form](https://forms.fillout.com/t/n4fxVFpHQWus).
 
 If you have questions in the meantime, please send an email to both <nicolas.alessandroni@concordia.ca> and <lpretot@pittstate.edu>.
 
@@ -44,4 +43,4 @@ ManyManys 1 Project Leads
 
 <https://manymanys.github.io/MM1/>
 
-*Updated May 28, 2026*
+*Updated Jun 2, 2026*

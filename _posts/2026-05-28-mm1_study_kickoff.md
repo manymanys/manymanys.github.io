@@ -7,8 +7,24 @@ thumbnail-img: /assets/img/mm1_kickoff.png
 tags: [ManyManys 1, webinar, comparative cognition, animal cognition, data collection]
 ---
 
+<center>
+  <div class="video-container">
+    <iframe
+      width="560"
+      height="315"
+      src="https://drive.google.com/file/d/1dUouOiKvUQgcrRlYq7JVoRLBeC8UB4OK/preview"
+      title="MM1 Study Kickoff Recording"
+      frameborder="0"
+      allow="autoplay"
+      allowfullscreen>
+    </iframe>
+  </div>
+</center>
+
+<br>
+
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/mm1_kickoff.png?raw=true" alt="MM1 study kickoff flyer" style="max-width: 700px; height: auto;">
+  <img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/mm1_kickoff.png?raw=true" alt="MM1 study kickoff flyer" style="max-width: 700px; height: auto;">
 </div>
 
 ***If you or your team can collect reversal learning data with any animal species, ManyManys wants you as a collaborator!***

@@ -3,12 +3,12 @@ title: "Introducing our new Research Community Officer: Angela Koçiu"
 date: 2026-08-26
 categories: [news]
 layout: post
-thumbnail-img: /assets/img/kociu.jpeg.heic
+thumbnail-img: /assets/img/kociu.png
 tags: [Research Community Officer, ManyManys 1, communication, animal cognition, open science]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/kociu.jpeg.heic?raw=true" alt="Angela Koçiu" style="max-width: 300px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/kociu.png?raw=true" alt="Angela Koçiu" style="max-width: 300px; height: auto;">
 </div>
 
 We are thrilled to announce that as of this summer, ManyManys has appointed a new Research Community Officer! Angela Koçiu is an undergraduate student specializing in psychology at Concordia University with an interest in cognition as well as developmental psychology. 

@@ -15,7 +15,7 @@ As part of our open science event series, we are excited to launch our upcoming 
 
 **Open research tools: Behavioral coding using BORIS**
 
-📅 Date & time: October 14, 11:00 a.m. – 1:O0 p.m. (ET) on Zoom
+📅 Date & time: October 14, 11:00 a.m. – 1:00 p.m. (ET) on Zoom
 
 🎤 Facilitators: Miranda Gómez Díaz and Alexandra Paquette
 

@@ -19,7 +19,7 @@ As part of our open science event series, we are excited to launch our upcoming 
 
 🎤 Facilitators: Miranda Gómez Díaz and Alexandra Paquette
 
-🔗 Register here: [https://forms.fillout.com/t/vxUL6eDpbKus](https://forms.fillout.com/t/vxUL6eDpbKus)]
+🔗 Register here: [https://forms.fillout.com/t/vxUL6eDpbKus](https://forms.fillout.com/t/vxUL6eDpbKus)
 
 📅 [Calendar invite](https://calendar.app.google/xUH5BjjKWH1uXUVF7) (with Zoom link)
 

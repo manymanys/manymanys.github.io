@@ -15,7 +15,7 @@ As part of our open science event series, we are excited to launch our upcoming 
 
 **Open research tools: Behavioral coding using BORIS**
 
-📅 Date & time: October 14, 11:00 a.m. – 1:O0 p.m. (ET) on Zoom [view in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?p1=165&iso=20260127T11&msg=What’s%20the%20use%20of%20pre-registration%20for%20Big%20Team%20Science%3f%20%5bw/%20Dr.%20Daniël%20Lakens%5d%20%28ManyManys%20webinar%29&ah=1&am=30)
+📅 Date & time: October 14, 11:00 a.m. – 1:O0 p.m. (ET) on Zoom
 
 🎤 Facilitators: Miranda Gómez Díaz and Alexandra Paquette
 

@@ -21,7 +21,7 @@ We are very excited to announce an upcoming orientation session for labs partici
 
 📅 [**Calendar invite**](https://calendar.app.google/WA1dv3pet4JWUqic8) (with Zoom link)
 
-🔗 [**Zoom link**](https://concordia-ca.zoom.us/j/83998201434?pwd=0j6vzImY2rvaBt8EwnaMLeiY4pNJTI.1)
+🔗 [**Zoom link**](https://concordia-ca.zoom.us/j/8999152710?pwd=fdox8hwoCbXB2z9tQ9QjXb648I0VrX.1)
 
 **Overview**: This orientation session will focus on implementing the MM1 Reversal Learning procedure with toddlers. Facilitated by Frederick Matte, a former undergraduate ManyManys trainee, the session will draw on experience from the pilot study at the Concordia Infant Research Laboratory to review key issues encountered during data collection, discuss strategies to address these challenges, and allow time for any questions and comments.
 

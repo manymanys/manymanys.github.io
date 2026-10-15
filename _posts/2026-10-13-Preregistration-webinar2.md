@@ -23,7 +23,7 @@ There are **many** ways to engage in preregistration, and **ManyMany** reasons t
 
 📅 [**Calendar invite**](https://calendar.app.google/FSkZ5mRXFxAxdHAK8) (with Zoom link)
 
-🔗 [**Zoom link**](https://concordia-ca.zoom.us/j/83998201434?pwd=0j6vzImY2rvaBt8EwnaMLeiY4pNJTI.1)
+🔗 [**Zoom link**](https://concordia-ca.zoom.us/j/8999152710?pwd=fdox8hwoCbXB2z9tQ9QjXb648I0VrX.1)
 
 **Abstract:** In this conversation, Michael J. Beran will outline the processes and possibilities for preregistration of scientific studies. Along the way, concerns and misunderstandings about preregistration will be discussed, as well as ways in which different types of research projects can be part of a preregistration effort. Fictional case studies will be presented for discussion, exploring how they could be prepared for preregistration and what might happen throughout the process.
 

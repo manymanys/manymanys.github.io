@@ -1,5 +1,5 @@
 ---
-title: "MM1 Group Session: Protocol Updates and Q&A"
+title: "ManyManys1 Group Session: Protocol Updates and Q&A"
 date: 2026-11-03
 categories: [news]
 layout: post

@@ -3,7 +3,7 @@ title: "There are many ways to engage in preregistration, and ManyMany reasons t
 date: 2026-10-13
 categories: [news]
 layout: post
-thumbnail-img: /assets/img/MM-preregistration.png 
+thumbnail-img: /assets/img/Preregistration webinar (2).jpg
 tags: [ManyManys 1, webinar, open science, comparative cognition, preregistration]
 ---
 

@@ -8,7 +8,7 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, preregistratio
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM-preregistration.png?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
+<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/Preregistration webinar (2).jpg?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to announce our upcoming webinar:

@@ -18,7 +18,7 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, preregistratio
 <br>
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/preregistration_webinar_flyer.png?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/preregistration_webinar_flyer.png" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to launch registration for our upcoming webinar: 
@@ -37,7 +37,7 @@ As part of our open science event series, we are excited to launch registration 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: none; margin: 20px 0;">
   <div style="flex: 0 0 15%;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/daniel_lakens.png?raw=true" alt="Daniel Lakens" style="max-width: 100px; height: auto;"> </div>
+<img src="/assets/img/daniel_lakens.png" alt="Daniel Lakens" style="max-width: 100px; height: auto;"> </div>
   <div style="flex: 0 0 85%;">
   <b>Daniel Lakens</b> is a Full Professor in Metascience at the Human-Technology Interaction group at Eindhoven University of Technology. He works actively on improving research methods and statistical inferences, and has published on the importance of replication research, sequential analyses and equivalence testing, and frequentist statistics. He was involved in establishing dedicated grants for replication studies by the Dutch science funder NWO, and with Brian Nosek co-edited a special issue with the first Registered Reports in psychology in 2014. He teaches better research practices on Coursera, published a free open textbook on statistics, and received the Leamer-Rosenthal Prize for Open Social Science in 2017 for his course ‘Improving Your Statistical Inferences’ in which more than 70.000 learners have enrolled. In 2023 he won the Ammodo Science award for fundamental research in the Social Sciences, and he is currently funded by an NWO VICI project on the meaningful interpretation of effect sizes.
   </div>

@@ -8,7 +8,7 @@ tags: [ManyManys 1, event, protocol updates, Q&A]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM1 group session.jpg?raw=true" alt="MM1 group session flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/MM1 group session.jpg" alt="MM1 group session flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are pleased to announce an upcoming **MM1 Group Session** to discuss protocol updates.

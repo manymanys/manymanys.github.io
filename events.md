@@ -3,10 +3,10 @@ layout: page
 title: Events
 ---
 
-# ManyManys1 Group Session: Protocol Updates and Q&A
+## ManyManys1 Group Session: Protocol Updates and Q&A
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM1 group session.jpg?raw=true" alt="MM1 group session flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/MM1 group session.jpg" alt="MM1 group session flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are pleased to announce an upcoming **MM1 Group Session** to discuss protocol updates.
@@ -25,9 +25,9 @@ For any questions, please contact us at themanymanys1@gmail.com.
 
 
 
-# There are many ways to engage in preregistration, and ManyMany reasons to do so!
+## There are many ways to engage in preregistration, and ManyMany reasons to do so!
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM-preregistration.png?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/MM-preregistration.png" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to announce our upcoming webinar:
@@ -48,7 +48,7 @@ There are **many** ways to engage in preregistration, and **ManyMany** reasons t
 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: none; margin: 20px 0;">
   <div style="flex: 0 0 15%;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/Michael Beran.jpg?raw=true" alt="Michael Beran" style="max-width: 100px; height: auto;"> </div>
+<img src="/assets/img/Michael Beran.jpg" alt="Michael Beran" style="max-width: 100px; height: auto;"> </div>
   <div style="flex: 0 0 85%;">
   <b>Dr. Michael J. Beran</b> is Professor of Psychology and Co-Director of the Language Research Center at Georgia State University. His research involves human and nonhuman primates, as well as other animal species, and focuses on topics including perception, numerical cognition, metacognition, planning, prospective memory, self-control, decision making, and language acquisition. Dr. Beran is a Fellow of Divisions 3 and 6 of the American Psychological Association and the Psychonomic Society. He is the current Chief Editor of the Journal of Comparative Psychology and has published over 240 peer-reviewed journal articles, as well as numerous book chapters.
   </div>
@@ -62,9 +62,9 @@ For any questions, please contact us at themanymanys1@gmail.com.
 
 
 
-# ManyManys1 Infant Lab Orientation: Implementing the Reversal Learning Procedure
+## ManyManys1 Infant Lab Orientation: Implementing the Reversal Learning Procedure
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM1 flyer - Infant Testing Orientation Session.png?raw=true" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/MM1 flyer - Infant Testing Orientation Session.png" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are very excited to announce an upcoming orientation session for labs participating in the MM1 Reversal Learning study with infants!
@@ -91,9 +91,9 @@ For any questions, please contact us at themanymanys1@gmail.com.
 
 
 
-# Open Webinar: Behavioral Coding Using BORIS
+## Open Webinar: Behavioral Coding Using BORIS
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/BORIS_workshop.png?raw=true" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/BORIS_workshop.png" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to launch our upcoming webinar: 
@@ -122,8 +122,8 @@ For any questions, please contact us at themanymanys1@gmail.com.
 
 
 
-# Open Webinar: What's the use of preregistration for Big Team Science?
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/preregistration_webinar_flyer.png?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
+## Open Webinar: What's the use of preregistration for Big Team Science?
+<img src="/assets/img/preregistration_webinar_flyer.png" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
 
 As part of our open science event series, we are excited to launch registration for our upcoming webinar: 
 
@@ -141,7 +141,7 @@ As part of our open science event series, we are excited to launch registration 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: none; margin: 20px 0;">
   <div style="flex: 0 0 15%;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/daniel_lakens.png?raw=true" alt="Daniel Lakens" style="max-width: 100px; height: auto;"> </div>
+<img src="/assets/img/daniel_lakens.png" alt="Daniel Lakens" style="max-width: 100px; height: auto;"> </div>
   <div style="flex: 0 0 85%;">
   <b>Daniel Lakens</b> is a Full Professor in Metascience at the Human-Technology Interaction group at Eindhoven University of Technology. He works actively on improving research methods and statistical inferences, and has published on the importance of replication research, sequential analyses and equivalence testing, and frequentist statistics. He was involved in establishing dedicated grants for replication studies by the Dutch science funder NWO, and with Brian Nosek co-edited a special issue with the first Registered Reports in psychology in 2014. He teaches better research practices on Coursera, published a free open textbook on statistics, and received the Leamer-Rosenthal Prize for Open Social Science in 2017 for his course ‘Improving Your Statistical Inferences’ in which more than 70.000 learners have enrolled. In 2023 he won the Ammodo Science award for fundamental research in the Social Sciences, and he is currently funded by an NWO VICI project on the meaningful interpretation of effect sizes.
   </div>
@@ -157,8 +157,8 @@ The presentation will be followed by an interactive discussion with participants
 
 
 
-# Panel Discussion: Navigating Career Development in Open and Big Team Science: Challenges and Opportunities
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/panel_discussion_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
+## Panel Discussion: Navigating Career Development in Open and Big Team Science: Challenges and Opportunities
+<img src="/assets/img/panel_discussion_flyer.png" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
 
 We are happy to announce our upcoming panel discussion:
 
@@ -187,8 +187,8 @@ For any questions, please contact us at [themanymanys1@gmail.com](mailto:themany
 
 
 
-# Webinar: Open Methods in Comparative Cognition Research
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/open_methods_webinar_flyer.png?raw=true" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
+## Webinar: Open Methods in Comparative Cognition Research
+<img src="/assets/img/open_methods_webinar_flyer.png" alt="Open Methods webinar flyer" style="max-width: 600px; height: auto;">
 
 We are excited to launch registration for our first open webinar exploring the connection between open science and comparative cognition: Open Methods in Comparative Cognition Research.
 
@@ -209,7 +209,7 @@ For any questions, please contact us at [themanymanys1@gmail.com](mailto:themany
 
 
 
-# Open Webinar Series on Implementing Reversal Learning Across Species
+## Open Webinar Series on Implementing Reversal Learning Across Species
 ![Webinar flyer](/assets/img/rl_webinar_1.png)
 ![Webinar flyer](/assets/img/rl_webinar_2.png)
 ![Webinar flyer](/assets/img/rl_webinar_3.png)
@@ -234,7 +234,7 @@ We look forward to seeing many of you there!
 
 
 
-# Open Webinar: "Reversal Learning Across Taxa: Exploring Applications and Standardizing Procedures for Comparative Cognition Research"
+## Open Webinar: "Reversal Learning Across Taxa: Exploring Applications and Standardizing Procedures for Comparative Cognition Research"
 ![Webinar flyer](/assets/img/jul2023_webinar_rl.png)
 The ManyManys 1 project is thrilled to invite you to our upcoming open webinar, “Reversal Learning Across Taxa: Exploring Applications and Standardizing Procedures for Comparative Cognition Research,” which will take place on **September 1, 2023, at 10–12 AM (EST) / 9–11 AM (CST) / 7–9 AM (PST) / 3–5 PM (BST) / 4–6 PM (CEST)**. This event is an excellent opportunity to delve deeper into our network and discover opportunities for joining our team. We will explore various aspects of reversal learning, its applications, and its potential for shaping the future of comparative cognition research. We will also hold a discussion around the methodological details of the reversal learning task currently under development for ManyManys 1.
 

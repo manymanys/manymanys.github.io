@@ -1,0 +1,22 @@
+# Source: assets/img/MM1 stats.png. Update the date and figures together.
+metrics_updated: November 10, 2026
+metrics:
+  - value: 177
+    label: Researchers
+  - value: 132
+    label: Institutions
+  - value: 33
+    label: Countries
+leads:
+  - name: Nicolás Alessandroni
+    affiliation: Concordia University
+    location: Montréal, Canada
+    image: /assets/img/alessandroni.png
+    email: nicolas.alessandroni@concordia.ca
+    profile: https://www.researchgate.net/profile/Nicolas-Alessandroni
+  - name: Laurent Prétôt
+    affiliation: Pittsburg State University
+    location: Pittsburg, USA
+    image: /assets/img/pretot.png
+    email: laurent.pretot@gmail.com
+    profile: https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-prétôt.html

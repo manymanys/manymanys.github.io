@@ -8,7 +8,7 @@ tags: [ManyManys 1, webinar, behavioral coding, BORIS]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/BORIS_workshop.png?raw=true" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/BORIS_workshop.png" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to launch our upcoming webinar: 

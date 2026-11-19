@@ -8,7 +8,7 @@ tags: [ManyManys 1, webinar, open science, comparative cognition, preregistratio
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/Preregistration webinar (2).jpg?raw=true" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/Preregistration webinar (2).jpg" alt="preregistration webinar flyer" style="max-width: 700px; height: auto;">
 </div>
 
 As part of our open science event series, we are excited to announce our upcoming webinar:
@@ -29,7 +29,7 @@ There are **many** ways to engage in preregistration, and **ManyMany** reasons t
 
 <div style="display: flex; align-items: flex-start; gap: 20px; border: none; margin: 20px 0;">
   <div style="flex: 0 0 15%;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/Michael Beran.jpg?raw=true" alt="Michael Beran" style="max-width: 100px; height: auto;"> </div>
+<img src="/assets/img/Michael Beran.jpg" alt="Michael Beran" style="max-width: 100px; height: auto;"> </div>
   <div style="flex: 0 0 85%;">
   <b>Dr. Michael J. Beran</b> is Professor of Psychology and Co-Director of the Language Research Center at Georgia State University. His research involves human and nonhuman primates, as well as other animal species, and focuses on topics including perception, numerical cognition, metacognition, planning, prospective memory, self-control, decision making, and language acquisition. Dr. Beran is a Fellow of Divisions 3 and 6 of the American Psychological Association and the Psychonomic Society. He is the current Chief Editor of the Journal of Comparative Psychology and has published over 240 peer-reviewed journal articles, as well as numerous book chapters.
   </div>

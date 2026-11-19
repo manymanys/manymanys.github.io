@@ -8,7 +8,7 @@ tags: [ManyManys 1, Infant Testing, Orientation]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/MM1 flyer - Infant Testing Orientation Session.png?raw=true" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
+<img src="/assets/img/MM1 flyer - Infant Testing Orientation Session.png" alt="BORIS workshop flyer" style="max-width: 700px; height: auto;">
 </div>
 
 We are very excited to announce an upcoming orientation session for labs participating in the MM1 Reversal Learning study with infants!

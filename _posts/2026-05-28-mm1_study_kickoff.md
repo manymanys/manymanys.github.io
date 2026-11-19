@@ -24,12 +24,12 @@ tags: [ManyManys 1, webinar, comparative cognition, animal cognition, data colle
 <br>
 
 <div style="text-align: center;">
-  <img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/mm1_kickoff.png?raw=true" alt="MM1 study kickoff flyer" style="max-width: 700px; height: auto;">
+  <img src="/assets/img/mm1_kickoff.png" alt="MM1 study kickoff flyer" style="max-width: 700px; height: auto;">
 </div>
 
 ***If you or your team can collect reversal learning data with any animal species, ManyManys wants you as a collaborator!***
 
-[ManyManys](https://manymanys.github.io/) is an international consortium launching the first large-scale, multi-taxa study on reversal learning. While past research has documented reversal learning across several species, comparative studies with multiple taxa remain rare and limited. ManyManys aims to address this gap. To make cross-species comparisons possible, we developed a shared protocol that any lab can implement as part of a coordinated global effort. Data collection is launching soon, and we want you on board!
+[ManyManys](/) is an international consortium launching the first large-scale, multi-taxa study on reversal learning. While past research has documented reversal learning across several species, comparative studies with multiple taxa remain rare and limited. ManyManys aims to address this gap. To make cross-species comparisons possible, we developed a shared protocol that any lab can implement as part of a coordinated global effort. Data collection is launching soon, and we want you on board!
 
 WHY PARTICIPATE?
 
@@ -57,6 +57,6 @@ Nicolás Alessandroni & Laurent Prétôt
 
 ManyManys 1 Project Leads
 
-<https://manymanys.github.io/MM1/>
+[ManyManys 1](/MM1/)
 
 *Updated Jun 2, 2026*

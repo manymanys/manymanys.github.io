@@ -1,0 +1,9 @@
+- id: MM1
+  name: ManyManys 1
+  title: Reversal learning
+  question: How do we learn when the rules change?
+  description: Our first collaborative study investigates how animals adapt to change. Together, we are developing a shared approach to measuring reversal learning across a wide range of species.
+  status: Ongoing project
+  featured: true
+  url: /MM1/
+  manual: https://manymanys.gitbook.io/mm1-lab-manual

@@ -8,7 +8,7 @@ tags: [ORCA, ManyManys 1, open science, research training, research community]
 ---
 
 <div style="text-align: center;">
-<img src="https://github.com/manymanys/manymanys.github.io/blob/master/assets/img/orca_logo.PNG?raw=true" alt="ORCA logo" style="max-width: 300px; height: auto;">
+<img src="/assets/img/orca_logo.PNG" alt="ORCA logo" style="max-width: 300px; height: auto;">
 </div>
 
 We are excited to share that ManyManys is continuing its ORCA-supported Open Science (OS) work! Our first round of funding in 2025 demonstrated that Big Team Science can be an effective way to learn OS: it enables researchers to develop skills through concrete research projects instead of solely relying on theory. Building on this experience, this next project, led by Dr. Jennifer Vonk, Dr. Nicolas Alessandroni, and Dr. Laurent Prétôt, focuses on expanding that work: we aim to help researchers move from developing OS skills within a project to further integrating these practices into their broader research systems. 

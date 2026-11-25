@@ -13,22 +13,28 @@ description: ManyManys 1 brings researchers together to measure and compare reve
 <section class="shell project-hero" aria-labelledby="project-title">
   <a class="breadcrumb" href="{{ '/' | relative_url }}#research">Our research / ManyManys 1</a>
   <div class="project-hero-grid">
-    <div><p class="project-status">ManyManys 1 · {{ project.status }}</p><h1 id="project-title">Reversal learning.<br><span>Across species.</span></h1><p class="hero-description">How do animals adapt when the rules change? Our first project brings this question to a shared study across animal taxa.</p><div class="button-row"><a class="button button-primary" href="{{ project.manual }}" target="_blank" rel="noopener noreferrer">Read the lab manual</a><a class="button button-outline" href="{{ '/getinvolved/' | relative_url }}">Get involved</a></div></div>
+    <div><h1 id="project-title">Reversal learning.<br><span>Across species.</span></h1><p class="hero-description">How do animals adapt when the rules change? Our first project brings this question to a shared study across animal taxa.</p><div class="button-row"><a class="button button-primary" href="{{ project.manual }}" target="_blank" rel="noopener noreferrer">Read the lab manual</a><a class="button button-outline" href="{{ '/getinvolved/' | relative_url }}">Get involved</a></div></div>
     <div class="project-monogram" aria-hidden="true"><span>MM1</span></div>
   </div>
 </section>
-<nav class="project-jump-nav" aria-label="On this page"><div class="shell"><a href="#overview">Overview</a><a href="#project-status">Project status</a>{% if project_log.size > 0 %}<a href="#project-log">Project log</a>{% endif %}<a href="#lab-manual">Lab manual</a><a href="#team">Project leads</a><a href="#contributors">Contributors</a></div></nav>
+<nav class="project-jump-nav" aria-label="On this page"><div class="shell"><a href="#overview">Overview</a><a href="#team">Project leads</a><a href="#project-status">Project status</a>{% if project_log.size > 0 %}<a href="#project-log">Project log</a>{% endif %}<a href="#lab-manual">Lab manual</a><a href="#contributors">Contributors</a></div></nav>
 
 <section class="shell section overview-section" id="overview" aria-labelledby="overview-title">
   <div data-reveal><h2 id="overview-title">Study overview</h2></div>
   <div class="about-copy" data-reveal><p class="large-copy">From insects to humans, learning helps animals respond to changing environments.</p><p>Reversal learning asks what happens when a previously learned association changes. It offers a way to investigate how animals adapt their behavior, but differences between studies can make comparisons across species difficult.</p><p>ManyManys 1 is developing and implementing a shared task to measure, describe, and compare reversal learning abilities across animal taxa. By collecting data from a wide range of species in a single study, we aim to better understand learning and its evolutionary origins.</p></div>
 </section>
 
-<section class="shell project-progress-section" id="project-status" aria-labelledby="project-status-title" data-reveal>
-  <h2 id="project-status-title">Project status</h2>
+<section class="shell section team-section" id="team" aria-labelledby="team-title">
+  <div class="section-heading" data-reveal><div><h2 id="team-title">Project leads</h2></div><p>Leading MM1 since 2023</p></div>
+  <div class="leads-grid">{% for lead in site.data.mm1.leads %}<article class="lead" data-reveal><img src="{{ lead.image | relative_url }}" alt="{{ lead.name }}" width="144" height="144" loading="lazy"><div><h3><a href="{{ lead.profile }}">{{ lead.name }}</a></h3><p>{{ lead.affiliation }}<br><span>{{ lead.location }}</span></p><a class="text-link" href="mailto:{{ lead.email }}">Email {{ lead.name | split: ' ' | first }}</a></div></article>{% endfor %}</div>
+  <div class="team-note"><p>We stay connected through regular meetings and discussions on Slack. Interested in contributing to the study?</p><a class="text-link" href="mailto:themanymanys1@gmail.com">Contact the project leads</a></div>
+</section>
+
+<section class="shell project-progress-section" id="project-status" aria-labelledby="project-status-title">
+  <h2 id="project-status-title" data-reveal>Project status</h2>
   <ol class="project-progress" role="list">
     {% for step in project_status.steps %}
-    <li class="progress-step{% if forloop.index < project_status.current_step %} is-complete{% elsif forloop.index == project_status.current_step %} is-current{% endif %}"{% if forloop.index == project_status.current_step %} aria-current="step"{% endif %}>
+    <li class="progress-step{% if forloop.index < project_status.current_step %} is-complete{% elsif forloop.index == project_status.current_step %} is-current{% endif %}" data-reveal{% if forloop.index == project_status.current_step %} aria-current="step"{% endif %}>
       <span class="progress-step-number" aria-hidden="true">{% if forloop.index < project_status.current_step %}✓{% else %}{{ forloop.index }}{% endif %}</span>
       <span class="progress-step-label">{{ step | escape }}</span>
       {% if forloop.index == project_status.current_step %}<span class="progress-step-state">We are here</span>{% elsif forloop.index < project_status.current_step %}<span class="sr-only">Completed</span>{% else %}<span class="sr-only">Upcoming</span>{% endif %}
@@ -37,13 +43,13 @@ description: ManyManys 1 brings researchers together to measure and compare reve
   </ol>
   <div class="progress-update">
     <div><p class="progress-current-label">Current status: {{ current_step_label | escape }}</p><p>{{ project_status.message | escape }}</p></div>
-    <a class="button button-outline" href="{{ project_status.registration_url | escape }}">{{ project_status.registration_label | escape }}</a>
+    <a class="button button-dark" href="{{ project_status.registration_url | escape }}">{{ project_status.registration_label | escape }}</a>
   </div>
   {% assign next_event = project_status.next_event %}
   {% if next_event and next_event.month >= log_month %}
-  <aside class="project-next-event" aria-labelledby="next-event-title">
-    <div class="next-event-meta"><span>Next event</span><time datetime="{{ next_event.month | escape }}">{{ next_event.month | append: '-01' | date: '%B %Y' }}</time></div>
-    <div><h3 id="next-event-title">{{ next_event.title | escape }}</h3><p>{{ next_event.description | escape }}</p></div>
+  <aside class="project-next-event" aria-labelledby="next-event-title" data-reveal>
+    <time class="next-event-date" datetime="{{ next_event.month | escape }}"><span class="sr-only">{{ next_event.month | append: '-01' | date: '%B %Y' }}</span><span class="next-event-month" aria-hidden="true">{{ next_event.month | append: '-01' | date: '%b' }}</span><span class="next-event-year" aria-hidden="true">{{ next_event.month | append: '-01' | date: '%Y' }}</span></time>
+    <div class="next-event-copy"><span class="next-event-label">Next event</span><h3 id="next-event-title">{{ next_event.title | escape }}</h3><p>{{ next_event.description | escape }}</p></div>
   </aside>
   {% endif %}
 </section>
@@ -52,7 +58,6 @@ description: ManyManys 1 brings researchers together to measure and compare reve
 <section class="shell project-log-section" id="project-log" aria-labelledby="project-log-title">
   <div class="project-log-intro" data-reveal>
     <h2 id="project-log-title">Project log</h2>
-    <p>Follow MM1’s progress, from shared methods to collaboration across teams.</p>
     <span class="project-log-order">Latest updates first</span>
   </div>
   <ol class="project-log" role="list">
@@ -85,12 +90,6 @@ description: ManyManys 1 brings researchers together to measure and compare reve
 
 <section class="shell section" id="lab-manual" aria-labelledby="manual-title">
   <div class="manual-panel" data-reveal><div><h2 id="manual-title">MM1 lab manual</h2></div><div><p>The MM1 lab manual brings together the study's scientific foundations, testing procedures, and practical guidance for data collection.</p><a class="button button-dark" href="{{ project.manual }}" target="_blank" rel="noopener noreferrer">Open the lab manual</a><p class="manual-credit">Generously hosted by GitBook through its Community Plan.</p></div></div>
-</section>
-
-<section class="shell section team-section" id="team" aria-labelledby="team-title">
-  <div class="section-heading" data-reveal><div><h2 id="team-title">Project leads</h2></div><p>Leading MM1 since 2023</p></div>
-  <div class="leads-grid">{% for lead in site.data.mm1.leads %}<article class="lead" data-reveal><img src="{{ lead.image | relative_url }}" alt="{{ lead.name }}" width="144" height="144" loading="lazy"><div><h3><a href="{{ lead.profile }}">{{ lead.name }}</a></h3><p>{{ lead.affiliation }}<br><span>{{ lead.location }}</span></p><a class="text-link" href="mailto:{{ lead.email }}">Email {{ lead.name | split: ' ' | first }}</a></div></article>{% endfor %}</div>
-  <div class="team-note"><p>We stay connected through regular meetings and discussions on Slack. Interested in contributing to the study?</p><a class="text-link" href="mailto:themanymanys1@gmail.com">Contact the project leads</a></div>
 </section>
 
 <section class="contributors-band" id="contributors" aria-labelledby="contributors-title">

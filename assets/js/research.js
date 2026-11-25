@@ -38,7 +38,6 @@
     window.matchMedia('(max-width: 820px)').addEventListener('change', () => setMenu(false));
   }
 
-  // Content is visible by default, including when JavaScript or observers are unavailable.
   if ('IntersectionObserver' in window) {
     const revealObserver = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
@@ -50,7 +49,6 @@
     document.querySelectorAll('[data-reveal]').forEach((element) => revealObserver.observe(element));
   }
 
-  // Keep the accessible count fixed while animating the visual count.
   const counters = document.querySelectorAll('[data-count]');
   if ('IntersectionObserver' in window && counters.length) {
     const counterObserver = new IntersectionObserver((entries) => {

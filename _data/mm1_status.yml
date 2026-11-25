@@ -1,0 +1,14 @@
+current_step: 2
+steps:
+  - Design the study
+  - Prepare & pilot
+  - Collect data
+  - Analyze results
+  - Share findings
+message: Piloting is ongoing. New research groups and labs can still join.
+registration_url: https://forms.fillout.com/t/n4fxVFpHQWus
+registration_label: Register your site
+next_event:
+  month: "2027-01"
+  title: MM1 protocol updates and 2027 kickoff meeting
+  description: A meeting to discuss protocol updates and launch the year's work.

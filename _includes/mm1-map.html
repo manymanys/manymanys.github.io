@@ -1,0 +1,41 @@
+<div class="network-map" aria-labelledby="network-map-title">
+  <div class="network-map-heading"><h3 id="network-map-title">Affiliations around the world</h3><p class="network-map-error" role="status" hidden>Map unavailable. Browse countries below.</p></div>
+  <div class="network-map-layout">
+    <div class="network-map-visual" hidden>
+      <svg class="network-map-svg" viewBox="0 0 960 450" role="group" aria-label="Countries represented in MM1 contributor affiliations">
+        <path class="network-map-land" fill-rule="evenodd" aria-hidden="true"></path>
+        {% for country in site.data.mm1_countries %}
+        {% assign country_contributors = site.data.mm1_contributors | where_exp: 'person', 'person.countries contains country.code' %}
+        {% if country_contributors.size > 0 %}
+        <g class="network-map-marker" data-country="{{ country.code }}" data-longitude="{{ country.longitude }}" data-latitude="{{ country.latitude }}" data-label="{{ country.name | escape }} · {{ country_contributors.size }} {% if country_contributors.size == 1 %}contributor{% else %}contributors{% endif %}" role="button" tabindex="0" aria-label="Explore {{ country.name | escape }}: {{ country_contributors.size }} {% if country_contributors.size == 1 %}contributor{% else %}contributors{% endif %}"><circle class="map-marker-hit" r="10"></circle><circle class="map-marker-ring" r="8"></circle><circle class="map-marker-dot" r="4"></circle></g>
+        {% endif %}
+        {% endfor %}
+      </svg>
+      <p class="network-map-tooltip" aria-hidden="true" hidden></p>
+    </div>
+    <div class="network-map-explorer" hidden>
+      <label for="map-country">Explore a country</label>
+      <select id="map-country"><option value="">Choose a country</option>
+        {% for country in site.data.mm1_countries %}
+        {% assign country_contributors = site.data.mm1_contributors | where_exp: 'person', 'person.countries contains country.code' %}
+        {% if country_contributors.size > 0 %}<option value="{{ country.code }}">{{ country.name | escape }} ({{ country_contributors.size }})</option>{% endif %}
+        {% endfor %}
+      </select>
+      <div class="network-map-detail" tabindex="0" role="region" aria-label="Selected country affiliations" aria-live="polite" hidden></div>
+    </div>
+  </div>
+  <details class="network-country-list"><summary>View all countries represented</summary><ul>
+    {% for country in site.data.mm1_countries %}
+    {% assign country_contributors = site.data.mm1_contributors | where_exp: 'person', 'person.countries contains country.code' %}
+    {% if country_contributors.size > 0 %}<li><span>{{ country.name | escape }}</span><span>{{ country_contributors.size }} {% if country_contributors.size == 1 %}contributor{% else %}contributors{% endif %}</span></li>{% endif %}
+    {% endfor %}
+  </ul><p class="network-map-note">Contributors with affiliations in two countries are counted in both.</p></details>
+  <p class="network-map-note"><a href="https://www.naturalearthdata.com/about/terms-of-use/">Map data: Natural Earth</a>.</p>
+  {% for country in site.data.mm1_countries %}
+  {% assign country_contributors = site.data.mm1_contributors | where_exp: 'person', 'person.countries contains country.code' %}
+  {% if country_contributors.size > 0 %}
+  <template id="map-country-{{ country.code }}"><h4>{{ country.name | escape }}</h4><p class="map-country-count">{{ country_contributors.size }} {% if country_contributors.size == 1 %}contributor{% else %}contributors{% endif %}</p><ul>{% assign affiliations = country_contributors | map: 'affiliation' | uniq | sort %}{% for affiliation in affiliations %}<li>{{ affiliation | escape }}</li>{% endfor %}</ul></template>
+  {% endif %}
+  {% endfor %}
+</div>
+<script src="{{ '/assets/js/mm1-map.js' | relative_url }}" defer></script>

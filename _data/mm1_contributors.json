@@ -1,714 +1,1249 @@
 [
   {
     "name": "Ensar Acem",
-    "affiliation": "Kadir Has University, Turkey"
+    "affiliation": "Kadir Has University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Adina Camelia Bleotu",
-    "affiliation": "University of Bucharest, Romania"
+    "affiliation": "University of Bucharest, Romania",
+    "countries": [
+      "RO"
+    ]
   },
   {
     "name": "Drew M. Altschul",
-    "affiliation": "University of Edinburgh, UK"
+    "affiliation": "University of Edinburgh, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Kristin Andrews",
-    "affiliation": "York University, Canada"
+    "affiliation": "York University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Berkay Arslan",
-    "affiliation": "University of St Andrews, UK"
+    "affiliation": "University of St Andrews, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Benjamin J. Ashton",
-    "affiliation": "Flinders University, Australia"
+    "affiliation": "Flinders University, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Mine Ayanoğlu",
-    "affiliation": "Mardin Artuklu University, Turkey"
+    "affiliation": "Mardin Artuklu University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Pau Bardi-Puigdefàbregas",
-    "affiliation": "Autonomous University of Barcelona, Spain"
+    "affiliation": "Autonomous University of Barcelona, Spain",
+    "countries": [
+      "ES"
+    ]
   },
   {
     "name": "Lisa P. Barret",
-    "affiliation": "ManyZoos, Indiana University Bloomington, USA"
+    "affiliation": "ManyZoos, Indiana University Bloomington, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Catarina Barros",
-    "affiliation": "MARE - FCUL, Portugal"
+    "affiliation": "MARE - FCUL, Portugal",
+    "countries": [
+      "PT"
+    ]
   },
   {
     "name": "Heidi A. Baumgartner",
-    "affiliation": "Stanford University, USA"
+    "affiliation": "Stanford University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Marina Bazhydai",
-    "affiliation": "Lancaster University, UK"
+    "affiliation": "Lancaster University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Mariana Bentosela",
-    "affiliation": "National Scientific and Technical Research Council, CONICET, Argentina"
+    "affiliation": "National Scientific and Technical Research Council, CONICET, Argentina",
+    "countries": [
+      "AR"
+    ]
   },
   {
     "name": "Michael Beran",
-    "affiliation": "Georgia State University, USA"
+    "affiliation": "Georgia State University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Julie Bertels",
-    "affiliation": "Université libre de Bruxelles, Belgium"
+    "affiliation": "Université libre de Bruxelles, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Laura Marina Biondi",
-    "affiliation": "Instituto de Investigaciones Marinas y Costeras, UNMdP, CONICET, Argentina"
+    "affiliation": "Instituto de Investigaciones Marinas y Costeras, UNMdP, CONICET, Argentina",
+    "countries": [
+      "AR"
+    ]
   },
   {
     "name": "Grace Blackburn",
-    "affiliation": "Central Queensland University, Australia"
+    "affiliation": "Central Queensland University, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Andrew C. Blundsen",
-    "affiliation": "Macquarie University, Australia"
+    "affiliation": "Macquarie University, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Francesco Bonadonna",
-    "affiliation": "CNRS, France"
+    "affiliation": "CNRS, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Sarah F. Brosnan",
-    "affiliation": "Georgia State University, USA"
+    "affiliation": "Georgia State University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Culum Brown",
-    "affiliation": "Macquarie University, Australia"
+    "affiliation": "Macquarie University, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Desiree Brucks",
-    "affiliation": "Humboldt University Berlin, Germany"
+    "affiliation": "Humboldt University Berlin, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Erin M. Buchanan",
-    "affiliation": "Harrisburg University of Science and Technology, USA"
+    "affiliation": "Harrisburg University of Science and Technology, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Daphna Buchsbaum",
-    "affiliation": "Brown University, USA"
+    "affiliation": "Brown University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Krista Byers-Heinlein",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Álvaro L. Caicoya",
-    "affiliation": "Research Institute for Farm Animal Biology, Germany"
+    "affiliation": "Research Institute for Farm Animal Biology, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Josep Call",
-    "affiliation": "University of St Andrews, UK"
+    "affiliation": "University of St Andrews, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Samuel P. Caro",
-    "affiliation": "Centre d’Ecologie Fonctionnelle et Evolutive-Centre National de la Recherche Scientifique, France"
+    "affiliation": "Centre d’Ecologie Fonctionnelle et Evolutive-Centre National de la Recherche Scientifique, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Francesca M. Cassola",
-    "affiliation": "Anglia Ruskin University, UK"
+    "affiliation": "Anglia Ruskin University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Lars Chittka",
-    "affiliation": "Queen Mary University of London, UK"
+    "affiliation": "Queen Mary University of London, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Susannah Couture",
-    "affiliation": "University of Nebraska, USA"
+    "affiliation": "University of Nebraska, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Sarah Dalesman",
-    "affiliation": "Aberystwyth University, UK"
+    "affiliation": "Aberystwyth University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Samara Danel",
-    "affiliation": "Centre in Ecology and Evolutionary Ecology, France"
+    "affiliation": "Centre in Ecology and Evolutionary Ecology, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Alexandra A. de Sousa",
-    "affiliation": "Seattle, USA"
+    "affiliation": "Seattle, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Fabrizio Dell'Anna",
-    "affiliation": "APOPO, Tanzania"
+    "affiliation": "APOPO, Tanzania",
+    "countries": [
+      "TZ"
+    ]
   },
   {
     "name": "Gabrielle L. Davidson",
-    "affiliation": "University of East Anglia, UK"
+    "affiliation": "University of East Anglia, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Anushka Desai",
-    "affiliation": "Mumbai, Maharashtra"
+    "affiliation": "Mumbai, Maharashtra",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "name": "Fatma Nur Dolu",
-    "affiliation": "Konya Food and Agriculture University, Turkey"
+    "affiliation": "Konya Food and Agriculture University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Mahmoud M. Elsherif",
-    "affiliation": "University of Leicester, UK"
+    "affiliation": "University of Leicester, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Julia Espinosa",
-    "affiliation": "Harvard University, USA"
+    "affiliation": "Harvard University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Anna Exner",
-    "affiliation": "Ruhr University Bochum, Germany"
+    "affiliation": "Ruhr University Bochum, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Carly F. Fisher",
-    "affiliation": "Brown University, USA"
+    "affiliation": "Brown University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Lauren Frick",
-    "affiliation": "Western Washington University, USA"
+    "affiliation": "Western Washington University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Marianne S. Freeman",
-    "affiliation": "University Centre Sparsholt, UK"
+    "affiliation": "University Centre Sparsholt, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Jordi Galbany",
-    "affiliation": "University of Barcelona, Spain"
+    "affiliation": "University of Barcelona, Spain",
+    "countries": [
+      "ES"
+    ]
   },
   {
     "name": "Clara García-Co",
-    "affiliation": "University of Antwerp, Belgium"
+    "affiliation": "University of Antwerp, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Charlène Gémard",
-    "affiliation": "University of Ghent, Belgium"
+    "affiliation": "University of Ghent, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Alessandra Geraci",
-    "affiliation": "University of Catania, Italy"
+    "affiliation": "University of Catania, Italy",
+    "countries": [
+      "IT"
+    ]
   },
   {
     "name": "Molly E. Gilmour",
-    "affiliation": "University of Postdam, Germany"
+    "affiliation": "University of Postdam, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Biljana Gjoneska",
-    "affiliation": "Macedonian Academy of Sciences and Arts, North Macedonia"
+    "affiliation": "Macedonian Academy of Sciences and Arts, North Macedonia",
+    "countries": [
+      "MK"
+    ]
   },
   {
     "name": "Vaitsa Giannouli",
-    "affiliation": "Democritus University of Thrace, Greece"
+    "affiliation": "Democritus University of Thrace, Greece",
+    "countries": [
+      "GR"
+    ]
   },
   {
     "name": "Özdal Gökdal",
-    "affiliation": "Adnan Menderes University, Turkey"
+    "affiliation": "Adnan Menderes University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Miranda Gómez Díaz",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Nayeli Gonzalez-Gomez",
-    "affiliation": "Oxford Brookes University, UK"
+    "affiliation": "Oxford Brookes University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Alexander Grabham",
-    "affiliation": "University of Canterbury, New Zealand"
+    "affiliation": "University of Canterbury, New Zealand",
+    "countries": [
+      "NZ"
+    ]
   },
   {
     "name": "Suzanne L. Gray",
-    "affiliation": "College of the Holy Cross, USA"
+    "affiliation": "College of the Holy Cross, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Lauren M. Guillette",
-    "affiliation": "University of Alberta, Canada"
+    "affiliation": "University of Alberta, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Onur Güntürkün",
-    "affiliation": "Ruhr-Univesity Bochum, Germany"
+    "affiliation": "Ruhr-Univesity Bochum, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Priscilla Haney Hernandez",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Katie Harrington",
-    "affiliation": "University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Elizabeth L. Haseltine",
-    "affiliation": "Georgia State University, USA"
+    "affiliation": "Georgia State University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Daniel B. M. Haun",
-    "affiliation": "Max Planck Institute for Evolutionary Anthropology, Germany"
+    "affiliation": "Max Planck Institute for Evolutionary Anthropology, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Tomer Hazan",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Yseult Héjja-Brichard",
-    "affiliation": "University of Maryland, USA"
+    "affiliation": "University of Maryland, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Ori Hendler",
-    "affiliation": "Ben Gurion University of the Negev, Israel"
+    "affiliation": "Ben Gurion University of the Negev, Israel",
+    "countries": [
+      "IL"
+    ]
   },
   {
     "name": "Edna Hillman",
-    "affiliation": "Humboldt University of Berlin, Germany"
+    "affiliation": "Humboldt University of Berlin, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Ludwig Huber",
-    "affiliation": "Messerli Research Institute / University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "Messerli Research Institute / University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Paula Ibáñez de Aldecoa",
-    "affiliation": "Institute for Advanced Study in Toulouse, France"
+    "affiliation": "Institute for Advanced Study in Toulouse, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Erkan Isik",
-    "affiliation": "Konya Food and Agriculture University, Turkey"
+    "affiliation": "Konya Food and Agriculture University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Jordan Iloski",
-    "affiliation": "University of Western Australia, Australia"
+    "affiliation": "University of Western Australia, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Hoi-Lam Jim",
-    "affiliation": "Kyoto University Institute for Advanced Study, Japan"
+    "affiliation": "Kyoto University Institute for Advanced Study, Japan",
+    "countries": [
+      "JP"
+    ]
   },
   {
     "name": "Marine Joly",
-    "affiliation": "University of Portsmouth, UK"
+    "affiliation": "University of Portsmouth, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Sarah Nicola Jung",
-    "affiliation": "Bielefeld University, Germany"
+    "affiliation": "Bielefeld University, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Lindsey Johnson",
-    "affiliation": "University of South Alabama, USA"
+    "affiliation": "University of South Alabama, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Natalia Kartushina",
-    "affiliation": "University of Oslo, Norway"
+    "affiliation": "University of Oslo, Norway",
+    "countries": [
+      "NO"
+    ]
   },
   {
     "name": "Jeffrey Katz",
-    "affiliation": "Aubern University, USA"
+    "affiliation": "Aubern University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Gwenaël Kaminski",
-    "affiliation": "University of Toulouse, France"
+    "affiliation": "University of Toulouse, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Junko Kanero",
-    "affiliation": "Sabanci University, Turkey"
+    "affiliation": "Sabanci University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Samantha Kefer",
-    "affiliation": "UC San Diego, USA"
+    "affiliation": "UC San Diego, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Debbie M. Kelly",
-    "affiliation": "University of Manitoba, Canada"
+    "affiliation": "University of Manitoba, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Kaan Kerman",
-    "affiliation": "Bilkent University, Turkey"
+    "affiliation": "Bilkent University, Turkey",
+    "countries": [
+      "TR"
+    ]
   },
   {
     "name": "Annabell Klinke",
-    "affiliation": "Macquarie University, Australia"
+    "affiliation": "Macquarie University, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Elizaveta Komyaginskaya",
-    "affiliation": "HSE University, Russia"
+    "affiliation": "HSE University, Russia",
+    "countries": [
+      "RU"
+    ]
   },
   {
     "name": "Honami Kobayashi",
-    "affiliation": "University of Cambridge, UK"
+    "affiliation": "University of Cambridge, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Uta König von Borstel",
-    "affiliation": "University of Giessen, Germany"
+    "affiliation": "University of Giessen, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Marta Kowal",
-    "affiliation": "University of Wroclaw, Poland"
+    "affiliation": "University of Wroclaw, Poland",
+    "countries": [
+      "PL"
+    ]
   },
   {
     "name": "Anastasia Krasheninnikova",
-    "affiliation": "Max Planck Institute for Biological Intelligence, Germany"
+    "affiliation": "Max Planck Institute for Biological Intelligence, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Valerie A. Kuhlmeier",
-    "affiliation": "Queen's University, Canada"
+    "affiliation": "Queen's University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Megan Lambert",
-    "affiliation": "University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Christine R. Lattin",
-    "affiliation": "Louisiana State University, USA"
+    "affiliation": "Louisiana State University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Saein Lee",
-    "affiliation": "University of Zurich, Switzerland"
+    "affiliation": "University of Zurich, Switzerland",
+    "countries": [
+      "CH"
+    ]
   },
   {
     "name": "Lav Leskur",
-    "affiliation": "Open University of Cyprus, Cyprus"
+    "affiliation": "Open University of Cyprus, Cyprus",
+    "countries": [
+      "CY"
+    ]
   },
   {
     "name": "Vadillo I. Loidi",
-    "affiliation": "University of Barcelona, Spain"
+    "affiliation": "University of Barcelona, Spain",
+    "countries": [
+      "ES"
+    ]
   },
   {
     "name": "Melanie Louis",
-    "affiliation": "The New School for Social Research, USA"
+    "affiliation": "The New School for Social Research, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Tyrone Lucon-Xiccato",
-    "affiliation": "University of Ferrera, Italy"
+    "affiliation": "University of Ferrera, Italy",
+    "countries": [
+      "IT"
+    ]
   },
   {
     "name": "Heidi Lyn",
-    "affiliation": "University of South Alabama, USA"
+    "affiliation": "University of South Alabama, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Noa Magen",
-    "affiliation": "Université de Montréal, Canada"
+    "affiliation": "Université de Montréal, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Lisandrina Mari",
-    "affiliation": "University of Jyväskylä, Finland"
+    "affiliation": "University of Jyväskylä, Finland",
+    "countries": [
+      "FI"
+    ]
   },
   {
     "name": "Frederick Matte",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Julien Mayor",
-    "affiliation": "University of Oslo, Norway"
+    "affiliation": "University of Oslo, Norway",
+    "countries": [
+      "NO"
+    ]
   },
   {
     "name": "Valeria Mazza",
-    "affiliation": "University of Potsdam / University of Tuscia, Germany / Italy"
+    "affiliation": "University of Potsdam / University of Tuscia, Germany / Italy",
+    "countries": [
+      "DE",
+      "IT"
+    ]
   },
   {
     "name": "Rebecca K. Meagher",
-    "affiliation": "Dalhousie University, Canada"
+    "affiliation": "Dalhousie University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Joseph R. Mendelson III",
-    "affiliation": "Zoo Atlanta & Georgia Institute of Technology, USA"
+    "affiliation": "Zoo Atlanta & Georgia Institute of Technology, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Jeremy K. Miller",
-    "affiliation": "Willamette University, USA"
+    "affiliation": "Willamette University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Noam Miller",
-    "affiliation": "Wilfrid Laurier University, Canada"
+    "affiliation": "Wilfrid Laurier University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Rachael Miller",
-    "affiliation": "Anglia Ruskin University, UK"
+    "affiliation": "Anglia Ruskin University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Gina Mireault",
-    "affiliation": "Vermont State University, USA"
+    "affiliation": "Vermont State University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Kasturi Mondal",
-    "affiliation": "Ben Gurion University of the Negev, Israel"
+    "affiliation": "Ben Gurion University of the Negev, Israel",
+    "countries": [
+      "IL"
+    ]
   },
   {
     "name": "David Moreau",
-    "affiliation": "University of Auckland, New Zealand"
+    "affiliation": "University of Auckland, New Zealand",
+    "countries": [
+      "NZ"
+    ]
   },
   {
     "name": "Christian Nawroth",
-    "affiliation": "Research Institute for Farm Animal Biology, Germany"
+    "affiliation": "Research Institute for Farm Animal Biology, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Paul Nealen",
-    "affiliation": "Indiana University of Pennsylvania, USA"
+    "affiliation": "Indiana University of Pennsylvania, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Mary Beth Neff",
-    "affiliation": "University of Oslo, Norway"
+    "affiliation": "University of Oslo, Norway",
+    "countries": [
+      "NO"
+    ]
   },
   {
     "name": "Josh Nguyen",
-    "affiliation": "Orygen/Centre for Youth Mental Health, Australia"
+    "affiliation": "Orygen/Centre for Youth Mental Health, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Eliza L. Nelson",
-    "affiliation": "Florida International University, USA"
+    "affiliation": "Florida International University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Victoria L. O'Connor",
-    "affiliation": "Oakland University / Bergen County Zoo, USA"
+    "affiliation": "Oakland University / Bergen County Zoo, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Ljerka Ostojic",
-    "affiliation": "University of Rijeka, Croatia"
+    "affiliation": "University of Rijeka, Croatia",
+    "countries": [
+      "HR"
+    ]
   },
   {
     "name": "Stefano Pagliarani",
-    "affiliation": "Educational Research Institute, Poland"
+    "affiliation": "Educational Research Institute, Poland",
+    "countries": [
+      "PL"
+    ]
   },
   {
     "name": "José Ricardo Paula",
-    "affiliation": "MARE - Marine and Environmental Sciences Centre, Faculdade de Ciências da Universidade de Lisboa, Portugal"
+    "affiliation": "MARE - Marine and Environmental Sciences Centre, Faculdade de Ciências da Universidade de Lisboa, Portugal",
+    "countries": [
+      "PT"
+    ]
   },
   {
     "name": "Annika Paukner",
-    "affiliation": "Nottingham Trent University, UK"
+    "affiliation": "Nottingham Trent University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Madeline H. Pelgrim",
-    "affiliation": "Brown University, USA"
+    "affiliation": "Brown University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Stefanie Peykarjou",
-    "affiliation": "Charlotte Fresenius Hochschule Wiesbaden, Germany"
+    "affiliation": "Charlotte Fresenius Hochschule Wiesbaden, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Stefan Popp",
-    "affiliation": "Free University Berlin, Germany"
+    "affiliation": "Free University Berlin, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Ekaterina Pronizius",
-    "affiliation": "University of Vienna, Austria"
+    "affiliation": "University of Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Michael J. Proulx",
-    "affiliation": "University of Bath, UK"
+    "affiliation": "University of Bath, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Muhammad A. J. Qadri",
-    "affiliation": "College of the Holy Cross, USA"
+    "affiliation": "College of the Holy Cross, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Simon M. Reader",
-    "affiliation": "McGill University, Canada"
+    "affiliation": "McGill University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Olivia Reilly",
-    "affiliation": "Harvard University, USA"
+    "affiliation": "Harvard University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Amanda R. Ridley",
-    "affiliation": "University of Western Australia, Australia"
+    "affiliation": "University of Western Australia, Australia",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "name": "Alba Motes Rodrigo",
-    "affiliation": "University of Lausanne, Switzerland"
+    "affiliation": "University of Lausanne, Switzerland",
+    "countries": [
+      "CH"
+    ]
   },
   {
     "name": "Jan P. Röer",
-    "affiliation": "Witten/Herdecke University, Germany"
+    "affiliation": "Witten/Herdecke University, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Audun Rosslund",
-    "affiliation": "Norwegian University of Science and Technology, Norway"
+    "affiliation": "Norwegian University of Science and Technology, Norway",
+    "countries": [
+      "NO"
+    ]
   },
   {
     "name": "Tamal Roy",
-    "affiliation": "Humboldt University of Berlin / Leibniz Institute of Freshwater Ecology and Inland Fisheries, Germany"
+    "affiliation": "Humboldt University of Berlin / Leibniz Institute of Freshwater Ecology and Inland Fisheries, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Susana Ruiz-Fernandez",
-    "affiliation": "Brandenburg University of Technology, Germany"
+    "affiliation": "Brandenburg University of Technology, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Maria Santacà",
-    "affiliation": "University of Vienna, Austria"
+    "affiliation": "University of Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Adam Sandford",
-    "affiliation": "University of Guelph-Humber, Canada"
+    "affiliation": "University of Guelph-Humber, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Océane Schmitt",
-    "affiliation": "Justus-Liebig University of Giessen, Germany"
+    "affiliation": "Justus-Liebig University of Giessen, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Alina Schaffer",
-    "affiliation": "Leipzig University, Germany"
+    "affiliation": "Leipzig University, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Raoul Schwing",
-    "affiliation": "University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Natalie Schwob",
-    "affiliation": "Bucknell University, USA"
+    "affiliation": "Bucknell University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Carla Sebastián-Enesco",
-    "affiliation": "Universidad Complutense de Madrid, Spain"
+    "affiliation": "Universidad Complutense de Madrid, Spain",
+    "countries": [
+      "ES"
+    ]
   },
   {
     "name": "Ronen Segev",
-    "affiliation": "Ben Gurion University of the Negev, Israel"
+    "affiliation": "Ben Gurion University of the Negev, Israel",
+    "countries": [
+      "IL"
+    ]
   },
   {
     "name": "Christopher Shoukry",
-    "affiliation": "Florida International University, USA"
+    "affiliation": "Florida International University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Vedrana Šlipogor",
-    "affiliation": "University of South Bohemia, Czech Republic"
+    "affiliation": "University of South Bohemia, Czech Republic",
+    "countries": [
+      "CZ"
+    ]
   },
   {
     "name": "Melanie Soderstrom",
-    "affiliation": "University of Manitoba, Canada"
+    "affiliation": "University of Manitoba, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Aamir Sohail",
-    "affiliation": "University of Birmingham, UK"
+    "affiliation": "University of Birmingham, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Carl D. Soulsbury",
-    "affiliation": "University of Lincoln, UK"
+    "affiliation": "University of Lincoln, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Jeffrey R. Stevens",
-    "affiliation": "University of Nebraska-Lincoln, USA"
+    "affiliation": "University of Nebraska-Lincoln, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Lalitta Suriya-Arunroj",
-    "affiliation": "Chulalongkorn University, Thailand"
+    "affiliation": "Chulalongkorn University, Thailand",
+    "countries": [
+      "TH"
+    ]
   },
   {
     "name": "Scott Swain",
-    "affiliation": "Clemson University, USA"
+    "affiliation": "Clemson University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Birgit Szabo",
-    "affiliation": "University of Bern, Switzerland"
+    "affiliation": "University of Bern, Switzerland",
+    "countries": [
+      "CH"
+    ]
   },
   {
     "name": "Alexander H. Taylor",
-    "affiliation": "Catalan Institution for Research and Advanced Studies, Spain"
+    "affiliation": "Catalan Institution for Research and Advanced Studies, Spain",
+    "countries": [
+      "ES"
+    ]
   },
   {
     "name": "Lupin M. L. Teles",
-    "affiliation": "Federal University of Alagoas, Brazil"
+    "affiliation": "Federal University of Alagoas, Brazil",
+    "countries": [
+      "BR"
+    ]
   },
   {
     "name": "Christopher N. Templeton",
-    "affiliation": "Western Washington University, USA"
+    "affiliation": "Western Washington University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Sandra Trigo",
-    "affiliation": "Universidade do Porto, BIOPOLIS, Portugal"
+    "affiliation": "Universidade do Porto, BIOPOLIS, Portugal",
+    "countries": [
+      "PT"
+    ]
   },
   {
     "name": "Zofia Trafas",
-    "affiliation": "University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "David Vaidis",
-    "affiliation": "Université de Toulouse, France"
+    "affiliation": "Université de Toulouse, France",
+    "countries": [
+      "FR"
+    ]
   },
   {
     "name": "Kees van Oers",
-    "affiliation": "Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands"
+    "affiliation": "Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands",
+    "countries": [
+      "NL"
+    ]
   },
   {
     "name": "Ariane Veit",
-    "affiliation": "Messerli Research Institute / University of Veterinary Medicine Vienna, Austria"
+    "affiliation": "Messerli Research Institute / University of Veterinary Medicine Vienna, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Frederick Verbruggen",
-    "affiliation": "Ghent University, Belgium"
+    "affiliation": "Ghent University, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Elisabetta Versace",
-    "affiliation": "Queen Mary University of London, UK"
+    "affiliation": "Queen Mary University of London, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Jonas Verspeek",
-    "affiliation": "Royal Zoological Society of Antwerp, Belgium"
+    "affiliation": "Royal Zoological Society of Antwerp, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Ingmar Visser",
-    "affiliation": "University of Amsterdam, The Netherlands"
+    "affiliation": "University of Amsterdam, The Netherlands",
+    "countries": [
+      "NL"
+    ]
   },
   {
     "name": "Auguste M. P. von Bayern",
-    "affiliation": "Max Planck Institute for Biological Intelligence, Germany"
+    "affiliation": "Max Planck Institute for Biological Intelligence, Germany",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "name": "Jennifer Vonk",
-    "affiliation": "Oakland University, USA"
+    "affiliation": "Oakland University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Lijun Wang",
-    "affiliation": "Wuhan University of Technology, China"
+    "affiliation": "Wuhan University of Technology, China",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "name": "Wen Wang",
-    "affiliation": "University of Essex, UK"
+    "affiliation": "University of Essex, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Müller Wendt",
-    "affiliation": "University of Antwerp, Belgium"
+    "affiliation": "University of Antwerp, Belgium",
+    "countries": [
+      "BE"
+    ]
   },
   {
     "name": "Stephanie Wermelinger",
-    "affiliation": "University of Zurich, Switzerland"
+    "affiliation": "University of Zurich, Switzerland",
+    "countries": [
+      "CH"
+    ]
   },
   {
     "name": "Gert Westermann",
-    "affiliation": "Lancaster University, UK"
+    "affiliation": "Lancaster University, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Ben Whittaker",
-    "affiliation": "University of Alberta, Canada"
+    "affiliation": "University of Alberta, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Madison Williams",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Marianne Wondrak",
-    "affiliation": "Henndorf am Wallersee, Austria"
+    "affiliation": "Henndorf am Wallersee, Austria",
+    "countries": [
+      "AT"
+    ]
   },
   {
     "name": "Justin Yeager",
-    "affiliation": "Universidad de las Americas, Ecuador"
+    "affiliation": "Universidad de las Americas, Ecuador",
+    "countries": [
+      "EC"
+    ]
   },
   {
     "name": "Martin Zettersten",
-    "affiliation": "Princeton University, USA"
+    "affiliation": "Princeton University, USA",
+    "countries": [
+      "US"
+    ]
   },
   {
     "name": "Tania Zamuner",
-    "affiliation": "University of Ottawa, Canada"
+    "affiliation": "University of Ottawa, Canada",
+    "countries": [
+      "CA"
+    ]
   },
   {
     "name": "Lei Zhang",
-    "affiliation": "University of Birmingham, UK"
+    "affiliation": "University of Birmingham, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Yucheng Zhang",
-    "affiliation": "University of Southampton, UK"
+    "affiliation": "University of Southampton, UK",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "name": "Ethan Zlotnik",
-    "affiliation": "Concordia University, Canada"
+    "affiliation": "Concordia University, Canada",
+    "countries": [
+      "CA"
+    ]
   }
 ]

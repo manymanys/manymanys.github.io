@@ -1,0 +1,312 @@
+[
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "longitude": -64,
+    "latitude": -35,
+    "affiliation_labels": [
+      "Argentina"
+    ]
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "longitude": 134,
+    "latitude": -25,
+    "affiliation_labels": [
+      "Australia"
+    ]
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "longitude": 14.2,
+    "latitude": 47.6,
+    "affiliation_labels": [
+      "Austria"
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "longitude": 4.7,
+    "latitude": 50.8,
+    "affiliation_labels": [
+      "Belgium"
+    ]
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "longitude": -52,
+    "latitude": -12,
+    "affiliation_labels": [
+      "Brazil"
+    ]
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "longitude": -106,
+    "latitude": 57,
+    "affiliation_labels": [
+      "Canada"
+    ]
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "longitude": 104,
+    "latitude": 35,
+    "affiliation_labels": [
+      "China"
+    ]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "longitude": 16.4,
+    "latitude": 45.2,
+    "affiliation_labels": [
+      "Croatia"
+    ]
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "longitude": 33.2,
+    "latitude": 35,
+    "affiliation_labels": [
+      "Cyprus"
+    ]
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "longitude": 15.4,
+    "latitude": 49.8,
+    "affiliation_labels": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "longitude": -78.5,
+    "latitude": -1.5,
+    "affiliation_labels": [
+      "Ecuador"
+    ]
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "longitude": 26,
+    "latitude": 64,
+    "affiliation_labels": [
+      "Finland"
+    ]
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "longitude": 2.4,
+    "latitude": 46.6,
+    "affiliation_labels": [
+      "France"
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "longitude": 10.4,
+    "latitude": 51.1,
+    "affiliation_labels": [
+      "Germany"
+    ]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "longitude": 23.7,
+    "latitude": 38.5,
+    "affiliation_labels": [
+      "Greece"
+    ]
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "longitude": 79,
+    "latitude": 22,
+    "affiliation_labels": [
+      "India",
+      "Maharashtra"
+    ]
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "longitude": 34.9,
+    "latitude": 31.5,
+    "affiliation_labels": [
+      "Israel"
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "longitude": 12.6,
+    "latitude": 42.5,
+    "affiliation_labels": [
+      "Italy"
+    ]
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "longitude": 138,
+    "latitude": 37,
+    "affiliation_labels": [
+      "Japan"
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "longitude": 5.3,
+    "latitude": 52.2,
+    "affiliation_labels": [
+      "The Netherlands",
+      "Netherlands"
+    ]
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "longitude": 173,
+    "latitude": -41,
+    "affiliation_labels": [
+      "New Zealand"
+    ]
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "longitude": 21.7,
+    "latitude": 41.6,
+    "affiliation_labels": [
+      "North Macedonia"
+    ]
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "longitude": 9,
+    "latitude": 62,
+    "affiliation_labels": [
+      "Norway"
+    ]
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "longitude": 19.1,
+    "latitude": 52,
+    "affiliation_labels": [
+      "Poland"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "longitude": -8,
+    "latitude": 39.5,
+    "affiliation_labels": [
+      "Portugal"
+    ]
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "longitude": 25,
+    "latitude": 46,
+    "affiliation_labels": [
+      "Romania"
+    ]
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "longitude": 96,
+    "latitude": 61,
+    "affiliation_labels": [
+      "Russia"
+    ]
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "longitude": -3.5,
+    "latitude": 40.1,
+    "affiliation_labels": [
+      "Spain"
+    ]
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "longitude": 8.2,
+    "latitude": 46.8,
+    "affiliation_labels": [
+      "Switzerland"
+    ]
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "longitude": 35,
+    "latitude": -6,
+    "affiliation_labels": [
+      "Tanzania"
+    ]
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "longitude": 101,
+    "latitude": 15,
+    "affiliation_labels": [
+      "Thailand"
+    ]
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "longitude": 35,
+    "latitude": 39,
+    "affiliation_labels": [
+      "Turkey"
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "longitude": -2.5,
+    "latitude": 54,
+    "affiliation_labels": [
+      "UK",
+      "United Kingdom"
+    ]
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "longitude": -99,
+    "latitude": 39,
+    "affiliation_labels": [
+      "USA",
+      "United States"
+    ]
+  }
+]

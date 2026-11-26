@@ -1,4 +1,5 @@
 require 'csv'
+require 'json'
 require 'yaml'
 require 'uri'
 root = File.expand_path(ARGV.fetch(0, File.join(__dir__, '..')))
@@ -54,6 +55,48 @@ begin
     end
   end
 
+  countries = JSON.parse(File.read(File.join(root, '_data/mm1_countries.json')))
+  contributors = JSON.parse(File.read(File.join(root, '_data/mm1_contributors.json')))
+  raise ArgumentError, 'Countries and contributors must be arrays.' unless countries.is_a?(Array) && contributors.is_a?(Array)
+
+  country_codes = countries.map { |country| country['code'] }
+  errors << 'Map country codes must be unique.' unless country_codes.uniq == country_codes
+  country_labels = {}
+  countries.each do |country|
+    code = country['code']
+    errors << 'Map country codes must contain two uppercase letters.' unless code.is_a?(String) && code.match?(/\A[A-Z]{2}\z/)
+    errors << "#{code}: country name is required." unless text?(country['name'])
+    { 'latitude' => -90..90, 'longitude' => -180..180 }.each do |key, range|
+      value = country[key]
+      errors << "#{code}: invalid #{key}." unless value.is_a?(Numeric) && range.cover?(value)
+    end
+    labels = country['affiliation_labels']
+    unless labels.is_a?(Array) && !labels.empty? && labels.all? { |label| text?(label) }
+      errors << "#{code}: affiliation_labels must be a nonempty list of country labels."
+      next
+    end
+    labels.each do |label|
+      errors << "Duplicate map affiliation label: #{label}." if country_labels.key?(label)
+      country_labels[label] = code
+    end
+  end
+  contributors.each do |person|
+    unless text?(person['name']) && text?(person['affiliation'])
+      errors << 'Every contributor must have a name and affiliation.'
+      next
+    end
+    codes = person['countries']
+    unless codes.is_a?(Array) && !codes.empty? && codes.uniq == codes && (codes - country_codes).empty?
+      errors << "#{person['name']}: countries must list distinct, known map country codes."
+      next
+    end
+    labels = person['affiliation'].split(', ').last.split(' / ')
+    expected = labels.map { |label| country_labels[label] }
+    if expected.include?(nil) || expected.sort != codes.sort
+      errors << "#{person['name']}: map countries do not match the public affiliation; check the country labels and codes."
+    end
+  end
+
   rows = CSV.read(File.join(root, '_data/mm1_log.csv'), headers: true, encoding: 'UTF-8')
   headers = %w[date title description link link_label]
   errors << "CSV header must be #{headers.join(',')}" unless rows.headers == headers
@@ -75,7 +118,7 @@ begin
     errors << "#{label}: duplicate month and title." if seen[identity]
     seen[identity] = true
   end
-rescue Psych::Exception, CSV::MalformedCSVError, ArgumentError, Errno::ENOENT => error
+rescue Psych::Exception, JSON::ParserError, CSV::MalformedCSVError, ArgumentError, Errno::ENOENT => error
   errors << error.message
 end
 
@@ -84,4 +127,4 @@ unless errors.empty?
   exit 1
 end
 
-puts "MM1 data valid: #{rows.length} milestones; current stage: #{steps[current - 1]}."
+puts "MM1 data valid: #{rows.length} milestones; current stage: #{steps[current - 1]}; #{contributors.length} contributors mapped to #{contributors.flat_map { |person| person['countries'] }.uniq.length} countries."

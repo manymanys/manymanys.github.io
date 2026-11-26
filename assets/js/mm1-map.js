@@ -59,6 +59,55 @@
     });
   });
 
+  const clipRing = (ring, boundary, keepGreater) => {
+    const clipped = [];
+    let previous = ring[ring.length - 1];
+    for (const point of ring) {
+      const inside = keepGreater ? point[0] >= boundary : point[0] <= boundary;
+      const previousInside = keepGreater ? previous[0] >= boundary : previous[0] <= boundary;
+      if (inside !== previousInside) {
+        const fraction = (boundary - previous[0]) / (point[0] - previous[0]);
+        clipped.push([boundary, previous[1] + fraction * (point[1] - previous[1])]);
+      }
+      if (inside) clipped.push(point);
+      previous = point;
+    }
+    return clipped;
+  };
+
+  const projectRing = (ring) => {
+    if (ring.length < 3 || ring.every((point) => point[1] < -60)) return '';
+    const unwrapped = [ring[0]];
+    for (const point of ring.slice(1)) {
+      let longitude = point[0];
+      const previous = unwrapped[unwrapped.length - 1][0];
+      while (longitude - previous > 180) longitude -= 360;
+      while (longitude - previous < -180) longitude += 360;
+      unwrapped.push([longitude, point[1]]);
+    }
+    const longitudes = unwrapped.map((point) => point[0]);
+    const first = Math.floor((Math.min(...longitudes) + 180) / 360);
+    const last = Math.floor((Math.max(...longitudes) + 180) / 360);
+    const paths = [];
+    for (let world = first; world <= last; world += 1) {
+      const offset = world * 360;
+      let part = clipRing(unwrapped, offset - 180, true);
+      if (part.length < 3) continue;
+      part = clipRing(part, offset + 180, false);
+      if (part.length < 3) continue;
+      const area = part.reduce((sum, point, index) => {
+        const next = part[(index + 1) % part.length];
+        return sum + point[0] * next[1] - next[0] * point[1];
+      }, 0);
+      if (Math.abs(area) < 1e-8) continue;
+      paths.push(part.map((point, index) => {
+        const [x, y] = project(point[0] - offset, point[1]);
+        return `${index ? 'L' : 'M'}${x.toFixed(2)},${y.toFixed(2)}`;
+      }).join('') + 'Z');
+    }
+    return paths.join('');
+  };
+
   const drawCountries = (topology) => {
     const { scale, translate } = topology.transform;
     const arcs = topology.arcs.map((arc) => {
@@ -77,11 +126,7 @@
         if (ring.length) ring.pop();
         ring.push(...arc);
       });
-      if (ring.every((point) => point[1] < -60)) return '';
-      return ring.map((point, index) => {
-        const [x, y] = project(point[0], point[1]);
-        return `${index ? 'L' : 'M'}${x.toFixed(2)},${y.toFixed(2)}`;
-      }).join('') + 'Z';
+      return projectRing(ring);
     };
     const paths = topology.objects.countries.geometries.map((geometry) => {
       const polygons = geometry.type === 'Polygon' ? [geometry.arcs] : geometry.arcs;

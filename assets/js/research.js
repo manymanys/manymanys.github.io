@@ -38,6 +38,25 @@
     window.matchMedia('(max-width: 820px)').addEventListener('change', () => setMenu(false));
   }
 
+  const projectNavigation = document.querySelector('.project-jump-nav');
+  if (header && projectNavigation) {
+    const root = document.documentElement;
+    root.classList.add('has-project-nav');
+    const updateNavigationOffsets = () => {
+      root.style.setProperty('--site-header-height', `${header.getBoundingClientRect().height}px`);
+      root.style.setProperty('--project-nav-height', `${projectNavigation.getBoundingClientRect().height}px`);
+    };
+    updateNavigationOffsets();
+    if ('ResizeObserver' in window) {
+      const navigationObserver = new ResizeObserver(updateNavigationOffsets);
+      navigationObserver.observe(header);
+      navigationObserver.observe(projectNavigation);
+    } else {
+      window.addEventListener('resize', updateNavigationOffsets, { passive: true });
+      menuButton?.addEventListener('click', updateNavigationOffsets);
+    }
+  }
+
   if ('IntersectionObserver' in window) {
     const revealObserver = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
